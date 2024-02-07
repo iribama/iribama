@@ -8,7 +8,7 @@ I'm a Technical Content Writer. I'm passionate about sharing knowledge through b
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I graduated from [ALtSchool Africa's Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning in-depth documentation for softwaare technologies.
+- 🌱 I’m currently learning in-depth documentation for software technologies.
 - 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Technical Content Writer (Intern or Junior level; freelance, contract or full-time).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1JGymG68qhvF_d5493jrKWj73teVTrOyus4t5yPxIAiU/edit?usp=sharing) and contact me by emailing isaacrejoice011@gmail.com.
